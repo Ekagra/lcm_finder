@@ -1,3 +1,3 @@
 # lcm_finder
-GUI LCM Finder using java </br><br>
+LCM GUI Java Applet </br><br>
 created on 2015
